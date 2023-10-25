@@ -8,6 +8,9 @@ height: 650px;}
 body{
 background-color: rgb(105, 96, 96);
 }
+.parte1{
+    background: powderblue;
+}
 h1{
 text-align: center; color: rgba(255, 0, 0, 0)
 }
@@ -16,4 +19,7 @@ text-align: center;
 }
 strong{
 color: rgba(205, 92, 92, 0);
+}
+.parte2{
+background: rgb(25, 155, 206);
 }
