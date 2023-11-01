@@ -1,25 +1,26 @@
 html {
-height: 100%;
-width: 100%;
-}
-#banner
-{ width: 100%;
-height: 650px;}
-body{
-background-color: rgb(105, 96, 96);
-}
-.parte1{
-    background: powderblue;
-}
-h1{
-text-align: center; color: rgba(255, 0, 0, 0)
-}
-p {
-text-align: center;
-}
-strong{
-color: rgba(205, 92, 92, 0);
-}
-.parte2{
-background: rgb(25, 155, 206);
-}
+    height: 100%;
+    width: 100%;
+    }
+    #banner
+    { width: 100%;
+    height: 650px;}
+    body{
+    background-color: white;
+    }
+    .principal {
+    background: rgb(64, 81, 233);
+    }
+    h1{
+    text-align: center; color: red
+    }
+    p {
+    text-align: center;
+    }
+    strong{
+    color: indianred;
+    }
+    .beneficios{
+    background: lightpink;
+    }
+    
